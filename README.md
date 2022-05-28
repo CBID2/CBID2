@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christine!
 - 👀 I’m interested in learning more about front-end development and how to apply it as an instructional designer.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on coding side projects.
+- 💞️ I’m looking to collaborate on coding side projects for fun.
 - 📫 How to reach me: Linkedin: https://linkedin.com/in/christinebelzie 
 
 <!---
