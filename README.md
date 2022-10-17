@@ -10,7 +10,7 @@
  </div> 
  
  <div align="center"> 
- <img src="https://media.giphy.com/media/3rIWm6vhwa4U7BxxBo/giphy.gif" alt="the word,<Div>a that is bedazzeled in multicolored jewels" width="750" />
+ <img src="https://media.giphy.com/media/3rIWm6vhwa4U7BxxBo/giphy.gif" alt="the word,<Div>a that is bedazzeled in multicolored jewels" width="300" />
  </div>
  
  -----
