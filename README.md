@@ -6,3 +6,12 @@
 </a> 
 </div> 
  <img src="https://komarev.com/ghpvc/?username=cbid2&style=flat-square&color=blue" alt=""/>
+ <h1> Hi there! 👋🏾</h1> 
+ </div> 
+ 
+ <div align="center"> 
+ <img src="https://media.giphy.com/media/3rIWm6vhwa4U7BxxBo/giphy.gif" alt="the word,<Div>a that is bedazzeled in multicolored jewels" width="750" />
+ </div>
+ 
+ -----
+  About Me :
