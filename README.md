@@ -13,5 +13,5 @@
  <img src="https://media.giphy.com/media/3rIWm6vhwa4U7BxxBo/giphy.gif" alt="the word,<Div>a that is bedazzeled in multicolored jewels" width="300" />
  </div>
  
- -----
+ ---
   About Me :
