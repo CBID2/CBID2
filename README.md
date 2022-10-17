@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Christine!
-- 👀 I’m interested in learning more about front-end development and how to apply it as an instructional designer.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on coding side projects for fun.
-- 📫 How to reach me: Linkedin: https://linkedin.com/in/christinebelzie 
-
-<!---
-CBID2/CBID2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="header" align="center">
+<img src=" https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animated gif of fem-presenting person typing on their computer with icons floating on top of their head" width="200" />
+</div>
+<div id="badges">
+<a href="https://www.linkedin.com/in/christinebelzie" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+</a> 
+</div> 
