@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src=" https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animated gif of fem-presenting person typing on their computer with icons floating on top of their head" width="200" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animated gif of fem-presenting person typing on their computer with icons floating on top of their head" width="200" />
 </div>
 <div id="badges">
 <a href="https://www.linkedin.com/in/christinebelzie" target="_blank">
