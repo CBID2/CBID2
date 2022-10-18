@@ -14,7 +14,7 @@
  </div>
  
  ---
- 👩🏿 About Me:
+ ## 👩🏿 About Me:
  I'm an instructional designer who is passionate about making engaging learning experiences accessible for all. I have decided to learn how to code to enhance my instructional design process. 
 - 🔭 I’m currently working on developing a tribute page. 
 - 🌱 I’m currently learning HTML and CSS. I plan on re-learning JavaScript once I get comfortable with CSS. 
