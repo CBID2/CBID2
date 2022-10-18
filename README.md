@@ -23,3 +23,14 @@
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinebelzie)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have never ate a BLT sandwich until adulthood! It was delicious! 😋
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/edit/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/edit/master/icons/vscode/vscode-original.svg" title=" VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/tree/master/icons/markdown" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp; 
+ </div> 
