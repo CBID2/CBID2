@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/christinebelzie" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="Linkedin Badge" />
 </a> 
- <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+ <a href="https://github.com/CBID2?tab=followers"><img src="https://img.shields.io/github/followers/CBID2?label=Followers&style=social" alt="GitHub Badge"></a>
 </div> 
  <img src="https://komarev.com/ghpvc/?username=cbid2&style=flat-square&color=blue" alt=""/>
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Christine!</h1>
@@ -40,7 +40,7 @@
 
 ## :fire: My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cbid2&theme=github-dark)](https://git.io/streak-stats)
+<a href="https://github.com/CBID2/github-readme-stats"><img alt="Christine Belzie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CBID2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbid2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
