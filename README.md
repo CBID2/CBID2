@@ -14,10 +14,11 @@
  </div>
  
  ---
- 👩🏿 About Me :
+ 👩🏿 About Me:
  I'm an instructional designer who is passionate about making engaging learning experiences accessible for all. I have decided to learn how to code to enhance my instructional design process. 
 - 🔭 I’m currently working on developing a tribute page. 
 - 🌱 I’m currently learning HTML, CSS, and JavaScript. 
+- 🔎 I'm looking to learning more about frontend development. 
 - 🤔 Things I need to look into...building a portfolio, learning other programming languages, and continue creating cool projects. 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinebelzie)
 - 😄 Pronouns: she/her/hers
