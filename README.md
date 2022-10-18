@@ -4,9 +4,10 @@
 <a href="https://www.linkedin.com/in/christinebelzie" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="Linkedin Badge" />
 </a> 
+ <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 </div> 
  <img src="https://komarev.com/ghpvc/?username=cbid2&style=flat-square&color=blue" alt=""/>
- h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Christine!</h1>
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Christine!</h1>
  </div> 
  
  <div align="center"> 
