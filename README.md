@@ -52,6 +52,6 @@
 <br/>
 ---
 
-## :writing_hand: Blog posts:
+## :writing_hand: My Blog posts:
 
 
