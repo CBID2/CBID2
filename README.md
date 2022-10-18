@@ -23,7 +23,7 @@
 - 🤔 Things I need to look into...building a portfolio, learning other programming languages, and continue creating cool projects. 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinebelzie)
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I have never ate a BLT sandwich until adulthood! It was delicious! 😋
+- ⚡ Fun fact: Over the summer, I ate my first BLT sandwich! It was delicious! 😋
 
 ---
 
