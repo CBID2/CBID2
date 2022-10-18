@@ -6,7 +6,7 @@
 </a> 
 </div> 
  <img src="https://komarev.com/ghpvc/?username=cbid2&style=flat-square&color=blue" alt=""/>
- <h1> Hi there! 👋🏾</h1> 
+ h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Christine!</h1>
  </div> 
  
  <div align="center"> 
