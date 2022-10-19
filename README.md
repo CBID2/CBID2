@@ -42,6 +42,8 @@
 
 <a href="https://github.com/CBID2/github-readme-stats"><img alt="Christine Belzie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CBID2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/CBID2/github-readme-stats"><img alt="Christine Belzie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBID2&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CBID2&theme=github-dark)](https://git.io/streak-stats)
   <br/>
 
 <br/>
@@ -50,6 +52,7 @@
 <a href="https://github.com/CBID2/github-readme-activity-graph"><img alt="Christine's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CBID2&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
+
 ---
 
 ## :writing_hand: My Blog posts:
