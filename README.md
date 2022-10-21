@@ -49,7 +49,7 @@
 <br/>
 <br/>
 
-[![Christine's github activity graph](https://polar-beach-88133.herokuapp.com//graph?username=CBID2&theme=tokyo-night)](https://github.com/CBID2/github-readme-activity-graph)
+[![Christine's github activity graph](https://activity-graph.herokuapp.com/graph?username=CBID2&theme=tokyo-night)](https://github.com/CBID2/github-readme-activity-graph)
 
 <br/>
 
