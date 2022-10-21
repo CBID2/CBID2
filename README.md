@@ -49,7 +49,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/CBID2/github-readme-activity-graph"><img alt="Christine's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CBID2&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Christine's github activity graph](https://activity-graph.herokuapp.com/graph?username=CBID2)](https://github.com/CBID2/github-readme-activity-graph)
 
 <br/>
 
