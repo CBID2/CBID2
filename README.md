@@ -34,7 +34,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://deviconapi.vercel.app/?markdown&theme=dark&size=50" alt="Markdown"/>
-  <img src="https://deviconapi.vercel.app/?github&theme=dark&size=50" alt="GitHub"/>
+[<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/43886029/180790910-37fc43da-eb83-4db6-9079-469fe83be1d5.svg">
+  <img alt="GitHub" title="GitHub" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</picture>][GitHub meme]
  </div> 
  <br/>
 
