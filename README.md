@@ -11,7 +11,7 @@
  </div> 
  
  <div align="center"> 
- <img src="https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif" alt="Blackground with the slogan, Girls Can Code too! in all caps and in chalkboard font" width="300" />
+ <img src="https://media.allauthor.com/images/quotes/gif/benjamin-franklin-quote-tell-me-and-i-forget-teach-me-and.gif" alt="Benjamin Franklin Quote: 'Tell me and I forget. Teach me and I remember. Involve me and I learn.' is typed on a white background" width="300" />
  </div>
  
  ---
