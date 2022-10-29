@@ -43,7 +43,7 @@
 </picture>
  </div> 
  <br/>
-<br/>
+---
 
 ### :zap: Recent Activity
 
@@ -55,7 +55,7 @@
 5. 🗣 Commented on [#22](https://github.com/AccessibleForAll/Resources/issues/22) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources)
 <!--END_SECTION:activity-->
 
-<br>
+---
 ## :fire: My Stats:
 
 <a href="https://github.com/CBID2/github-readme-stats"><img alt="Christine Belzie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CBID2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
