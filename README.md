@@ -43,7 +43,19 @@
 </picture>
  </div> 
  <br/>
+---
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#79](https://github.com/jamesgeorge007/github-activity-readme/issues/79) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🎉 Merged PR [#36](https://github.com/jamesgeorge007/csstox/pull/36) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+3. 🎉 Merged PR [#40](https://github.com/jamesgeorge007/scaffold-static/pull/40) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+4. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. 🎉 Made a PR [#23](https://github.com/AccessibleForAll/Resources/pull/23) in [AccessibleForAll/Resources (https://github.com/AccessibleForAll/Resources/blob/main/README.md)
+<!--END_SECTION:activity-->
+
+---
 ## :fire: My Stats:
 
 <a href="https://github.com/CBID2/github-readme-stats"><img alt="Christine Belzie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CBID2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
