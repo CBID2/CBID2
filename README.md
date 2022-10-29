@@ -48,11 +48,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1422](https://github.com/BeccaLyria/discord-bot/issues/1422) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
-2. 🗣 Commented on [#2029](https://github.com/EddieHubCommunity/LinkFree/issues/2029) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#2029](https://github.com/EddieHubCommunity/LinkFree/issues/2029) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 💪 Opened PR [#2058](https://github.com/EddieHubCommunity/LinkFree/pull/2058) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#5817](https://github.com/EddieHubCommunity/support/issues/5817) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#1422](https://github.com/BeccaLyria/discord-bot/issues/1422) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
+2. 🗣 Commented on [#1422](https://github.com/BeccaLyria/discord-bot/issues/1422) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
+3. ❗️ Opened issue [#1422](https://github.com/BeccaLyria/discord-bot/issues/1422) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
+4. 🗣 Commented on [#2029](https://github.com/EddieHubCommunity/LinkFree/issues/2029) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#2029](https://github.com/EddieHubCommunity/LinkFree/issues/2029) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 ---
