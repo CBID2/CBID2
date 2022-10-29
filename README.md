@@ -48,11 +48,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1422](https://github.com/BeccaLyria/discord-bot/issues/1422) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
-2. 🗣 Commented on [#1422](https://github.com/BeccaLyria/discord-bot/issues/1422) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
-3. 🗣 Commented on [#1422](https://github.com/BeccaLyria/discord-bot/issues/1422) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
-4. ❗️ Opened issue [#1422](https://github.com/BeccaLyria/discord-bot/issues/1422) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
-5. 🗣 Commented on [#2029](https://github.com/EddieHubCommunity/LinkFree/issues/2029) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 💪 Opened PR [#2061](https://github.com/EddieHubCommunity/LinkFree/pull/2061) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#2060](https://github.com/EddieHubCommunity/LinkFree/issues/2060) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 💪 Opened PR [#48329](https://github.com/freeCodeCamp/freeCodeCamp/pull/48329) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+4. 🗣 Commented on [#1422](https://github.com/BeccaLyria/discord-bot/issues/1422) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
+5. 🗣 Commented on [#1422](https://github.com/BeccaLyria/discord-bot/issues/1422) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
 <!--END_SECTION:activity-->
 
 ---
