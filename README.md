@@ -48,11 +48,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/jamesgeorge007/github-activity-readme/issues/79) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#36](https://github.com/jamesgeorge007/csstox/pull/36) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-3. 🎉 Merged PR [#40](https://github.com/jamesgeorge007/scaffold-static/pull/40) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-4. 🎉 Raised ISSUE [#760](https://github.com/EddieHubCommunity/EddieBot/issues/760) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🎉 Made a PR [#23](https://github.com/AccessibleForAll/Resources/pull/23) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources/blob/main/README.md)
+1. 🗣 Commented on [#5817](https://github.com/EddieHubCommunity/support/issues/5817) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#5817](https://github.com/EddieHubCommunity/support/issues/5817) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❗️ Opened issue [#2033](https://github.com/EddieHubCommunity/LinkFree/issues/2033) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🗣 Commented on [#23](https://github.com/AccessibleForAll/Resources/issues/23) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources)
+5. 🗣 Commented on [#22](https://github.com/AccessibleForAll/Resources/issues/22) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources)
 <!--END_SECTION:activity-->
 
 ---
