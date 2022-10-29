@@ -48,10 +48,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2061](https://github.com/EddieHubCommunity/LinkFree/pull/2061) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🗣 Commented on [#2060](https://github.com/EddieHubCommunity/LinkFree/issues/2060) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 💪 Opened PR [#48329](https://github.com/freeCodeCamp/freeCodeCamp/pull/48329) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-4. 🗣 Commented on [#1422](https://github.com/BeccaLyria/discord-bot/issues/1422) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
+1. 🗣 Commented on [#2150](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/2150) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 💪 Opened PR [#2061](https://github.com/EddieHubCommunity/LinkFree/pull/2061) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#2060](https://github.com/EddieHubCommunity/LinkFree/issues/2060) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 💪 Opened PR [#48329](https://github.com/freeCodeCamp/freeCodeCamp/pull/48329) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 5. 🗣 Commented on [#1422](https://github.com/BeccaLyria/discord-bot/issues/1422) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
 <!--END_SECTION:activity-->
 
