@@ -17,7 +17,7 @@
  ---
  ## 👩🏿 About Me:
  I'm an instructional designer who is passionate about making engaging learning experiences accessible for all. I have decided to learn how to code to enhance my instructional design process. 
-- 🔭 I’m currently working on the [tribute page project](https://nimble-dodol-bd9baa.netlify.app/) from **[FreeCode Camp's Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)** curriculum. 
+- 🔭 I’m currently working on the [Product Card Preview Project](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) from **[Frontend Mentor](https://www.frontendmentor.io/home)**. 
 - 🌱 I’m currently learning HTML and CSS. I plan on re-learning JavaScript once I get comfortable with CSS. 
 - 🔎 I'm looking to learning more about frontend development and how to apply coding in a Instructional Design context.
 - 🤔 Things I need to look into...building a portfolio, learning other programming languages, and continue creating cool projects. 
