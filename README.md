@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#348](https://github.com/Dun-sin/Code-Magic/issues/348) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+1. 🗣 Commented on [#8](https://github.com/audacity/audacity-support/issues/8) in [audacity/audacity-support](https://github.com/audacity/audacity-support)
 2. 🗣 Commented on [#348](https://github.com/Dun-sin/Code-Magic/issues/348) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
-3. 💪 Opened PR [#348](https://github.com/Dun-sin/Code-Magic/pull/348) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
-4. 💪 Opened PR [#3](https://github.com/shesharpnl/knowledge-hub/pull/3) in [shesharpnl/knowledge-hub](https://github.com/shesharpnl/knowledge-hub)
-5. 💪 Opened PR [#48332](https://github.com/freeCodeCamp/freeCodeCamp/pull/48332) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+3. 🗣 Commented on [#348](https://github.com/Dun-sin/Code-Magic/issues/348) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+4. 💪 Opened PR [#348](https://github.com/Dun-sin/Code-Magic/pull/348) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+5. 💪 Opened PR [#3](https://github.com/shesharpnl/knowledge-hub/pull/3) in [shesharpnl/knowledge-hub](https://github.com/shesharpnl/knowledge-hub)
 <!--END_SECTION:activity-->
 
 ---
