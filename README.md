@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/audacity/audacity-support/issues/8) in [audacity/audacity-support](https://github.com/audacity/audacity-support)
-2. 🗣 Commented on [#14](https://github.com/audacity/audacity-support/issues/14) in [audacity/audacity-support](https://github.com/audacity/audacity-support)
-3. 🗣 Commented on [#8](https://github.com/audacity/audacity-support/issues/8) in [audacity/audacity-support](https://github.com/audacity/audacity-support)
-4. 🗣 Commented on [#348](https://github.com/Dun-sin/Code-Magic/issues/348) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
-5. 🗣 Commented on [#348](https://github.com/Dun-sin/Code-Magic/issues/348) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+1. 💪 Opened PR [#2114](https://github.com/EddieHubCommunity/LinkFree/pull/2114) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 💪 Opened PR [#2113](https://github.com/EddieHubCommunity/LinkFree/pull/2113) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. ❗️ Opened issue [#2112](https://github.com/EddieHubCommunity/LinkFree/issues/2112) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🗣 Commented on [#8](https://github.com/audacity/audacity-support/issues/8) in [audacity/audacity-support](https://github.com/audacity/audacity-support)
+5. 🗣 Commented on [#14](https://github.com/audacity/audacity-support/issues/14) in [audacity/audacity-support](https://github.com/audacity/audacity-support)
 <!--END_SECTION:activity-->
 
 ---
