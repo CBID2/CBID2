@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2137](https://github.com/EddieHubCommunity/LinkFree/issues/2137) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 💪 Opened PR [#2137](https://github.com/EddieHubCommunity/LinkFree/pull/2137) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. ❗️ Opened issue [#2134](https://github.com/EddieHubCommunity/LinkFree/issues/2134) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. ❗️ Opened issue [#2133](https://github.com/EddieHubCommunity/LinkFree/issues/2133) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. ❗️ Opened issue [#2125](https://github.com/EddieHubCommunity/LinkFree/issues/2125) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🗣 Commented on [#2133](https://github.com/EddieHubCommunity/LinkFree/issues/2133) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#2137](https://github.com/EddieHubCommunity/LinkFree/issues/2137) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 💪 Opened PR [#2137](https://github.com/EddieHubCommunity/LinkFree/pull/2137) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. ❗️ Opened issue [#2134](https://github.com/EddieHubCommunity/LinkFree/issues/2134) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. ❗️ Opened issue [#2133](https://github.com/EddieHubCommunity/LinkFree/issues/2133) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 ---
