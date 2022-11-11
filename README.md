@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com/jeffreycharters/station/pull/101) in [jeffreycharters/station](https://github.com/jeffreycharters/station)
-2. 💪 Opened PR [#84](https://github.com/WomenWhoCode/guidelines-resources/pull/84) in [WomenWhoCode/guidelines-resources](https://github.com/WomenWhoCode/guidelines-resources)
-3. 💪 Opened PR [#83](https://github.com/WomenWhoCode/guidelines-resources/pull/83) in [WomenWhoCode/guidelines-resources](https://github.com/WomenWhoCode/guidelines-resources)
-4. ❗️ Opened issue [#9202](https://github.com/EbookFoundation/free-programming-books/issues/9202) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-5. 🗣 Commented on [#9201](https://github.com/EbookFoundation/free-programming-books/issues/9201) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+1. ❗️ Opened issue [#42](https://github.com/GingerKiwi/alice-game/issues/42) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
+2. 💪 Opened PR [#102](https://github.com/jeffreycharters/station/pull/102) in [jeffreycharters/station](https://github.com/jeffreycharters/station)
+3. 💪 Opened PR [#101](https://github.com/jeffreycharters/station/pull/101) in [jeffreycharters/station](https://github.com/jeffreycharters/station)
+4. 💪 Opened PR [#84](https://github.com/WomenWhoCode/guidelines-resources/pull/84) in [WomenWhoCode/guidelines-resources](https://github.com/WomenWhoCode/guidelines-resources)
+5. 💪 Opened PR [#83](https://github.com/WomenWhoCode/guidelines-resources/pull/83) in [WomenWhoCode/guidelines-resources](https://github.com/WomenWhoCode/guidelines-resources)
 <!--END_SECTION:activity-->
 
 ---
