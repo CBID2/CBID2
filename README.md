@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/GingerKiwi/alice-game/issues/42) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
-2. ❗️ Opened issue [#42](https://github.com/GingerKiwi/alice-game/issues/42) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
-3. 💪 Opened PR [#102](https://github.com/jeffreycharters/station/pull/102) in [jeffreycharters/station](https://github.com/jeffreycharters/station)
-4. 💪 Opened PR [#101](https://github.com/jeffreycharters/station/pull/101) in [jeffreycharters/station](https://github.com/jeffreycharters/station)
-5. 💪 Opened PR [#84](https://github.com/WomenWhoCode/guidelines-resources/pull/84) in [WomenWhoCode/guidelines-resources](https://github.com/WomenWhoCode/guidelines-resources)
+1. ❗️ Opened issue [#5974](https://github.com/EddieHubCommunity/support/issues/5974) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#42](https://github.com/GingerKiwi/alice-game/issues/42) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
+3. ❗️ Opened issue [#42](https://github.com/GingerKiwi/alice-game/issues/42) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
+4. 💪 Opened PR [#102](https://github.com/jeffreycharters/station/pull/102) in [jeffreycharters/station](https://github.com/jeffreycharters/station)
+5. 💪 Opened PR [#101](https://github.com/jeffreycharters/station/pull/101) in [jeffreycharters/station](https://github.com/jeffreycharters/station)
 <!--END_SECTION:activity-->
 
 ---
