@@ -49,11 +49,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9200](https://github.com/EbookFoundation/free-programming-books/pull/9200) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-2. 🗣 Commented on [#2143](https://github.com/EddieHubCommunity/LinkFree/issues/2143) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. ❗️ Opened issue [#893](https://github.com/zero-to-mastery/resources/issues/893) in [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources)
-4. 💪 Opened PR [#17444](https://github.com/zero-to-mastery/start-here-guidelines/pull/17444) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-5. 💪 Opened PR [#82](https://github.com/WomenWhoCode/guidelines-resources/pull/82) in [WomenWhoCode/guidelines-resources](https://github.com/WomenWhoCode/guidelines-resources)
+1. 💪 Opened PR [#84](https://github.com/WomenWhoCode/guidelines-resources/pull/84) in [WomenWhoCode/guidelines-resources](https://github.com/WomenWhoCode/guidelines-resources)
+2. 💪 Opened PR [#83](https://github.com/WomenWhoCode/guidelines-resources/pull/83) in [WomenWhoCode/guidelines-resources](https://github.com/WomenWhoCode/guidelines-resources)
+3. ❗️ Opened issue [#9202](https://github.com/EbookFoundation/free-programming-books/issues/9202) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+4. 🗣 Commented on [#9201](https://github.com/EbookFoundation/free-programming-books/issues/9201) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+5. 💪 Opened PR [#9201](https://github.com/EbookFoundation/free-programming-books/pull/9201) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 <!--END_SECTION:activity-->
 
 ---
