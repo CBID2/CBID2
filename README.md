@@ -47,7 +47,8 @@
 ---
 
 ### :zap: Recent Activity
-
+<details>
+ <br/>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5974](https://github.com/EddieHubCommunity/support/issues/5974) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 2. 🗣 Commented on [#5974](https://github.com/EddieHubCommunity/support/issues/5974) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
@@ -55,11 +56,13 @@
 4. 🗣 Commented on [#5974](https://github.com/EddieHubCommunity/support/issues/5974) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 5. 🗣 Commented on [#101](https://github.com/jeffreycharters/station/issues/101) in [jeffreycharters/station](https://github.com/jeffreycharters/station)
 <!--END_SECTION:activity-->
+</details>
 
----
 ## :fire: My Stats:
-
-<a href="https://github.com/CBID2/github-readme-stats"><img alt="Christine Belzie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CBID2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<details>
+ </br>
+><a href="https://github.com/CBID2/github-readme-stats"><img alt="Christine Belzie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CBID2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</details>
 <a href="https://github.com/CBID2/github-readme-stats"><img alt="Christine Belzie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBID2&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CBID2&theme=github-dark)](https://git.io/streak-stats)
