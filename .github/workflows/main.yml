@@ -1,44 +1,17 @@
-name: 'Update README'
+name: Update README
 
 on:
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '*/30 * * * *' # Update every 30 minutes
   workflow_dispatch:
-  #push:
-  #  branches:
-  #    - main
 
 jobs:
-  recent-activity:
-    name: 'Update README with latest activity'
+  build:
     runs-on: ubuntu-latest
+    name: Update Profile README
+
     steps:
-      - name: 'Checkout Repository'
-        uses: actions/Checkout@v3
-      - name: 'Update README.md from TEMPLATE.md'
-        uses: Readme-Workflows/recent-activity@main
+      - uses: actions/checkout@v2.3.4
+      - uses: Readme-Workflows/recent-activity@{version}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          CONFIG_FILE: 'sample.yml'
-  metrics:
-    name: 'Update SVGs for Readme stats'
-    runs-on: ubuntu-latest
-    needs: recent-activity
-    steps:
-      - uses: lowlighter/metrics@v3.28
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Readme-Workflows
-          repo: recent-activity
-          template: markdown
-          filename: README.md
-          markdown: TEMPLATE.md
-          markdown_cache: '.github/svg_cache'
-          
-          base: ""
-          
-          config_octicon: yes
-          
-          plugin_stargazers: yes
-          plugin_contributors: yes
