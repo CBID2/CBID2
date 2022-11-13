@@ -11,7 +11,7 @@ jobs:
     name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       #
       # "{version}" is a placeholder and should be replaced with the latest release of recent-activity
       - uses: iamgojoof6eyes/github-activity-readme@patch-1
