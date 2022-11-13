@@ -1,4 +1,4 @@
-name: Update README
+nname: Update README
 
 on:
   schedule:
@@ -11,36 +11,9 @@ jobs:
     name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v2.3.4
-      - uses: Readme-Workflows/recent-activity@{version}
+      - uses: actions/checkout@v3
+      #
+      # "{version}" is a placeholder and should be replaced with the latest release of recent-activity
+      - uses: Readme-Workflows/recent-activity@v2.4.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-settings:
-  username: "Readme-Workflows" # Replace with your username or comment out this line
-  commit_msg: "⚡ Update README with the recent activity"
-  max_lines: 5
-  readme_file: "./TEMPLATE.md"
-  disabled_events:
-    - "comments"
-  url_text: "{REPO}{ID}"
-  date:
-    timezone: "GMT+00:00"
-    text: "Last Updated: {DATE}"
-    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
-  commit_name: "readme-bot"
-  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
-messages:
-  comments: "💬 Commented on {ID} in {REPO}"
-  issue_opened: "❗️ Opened issue {ID} in {REPO}"
-  issue_closed: "✔️ Closed issue {ID} in {REPO}"
-  pr_opened: "💪 Opened PR {ID} in {REPO}"
-  pr_closed: "❌ Closed PR {ID} in {REPO}"
-  pr_merged: "🎉 Merged PR {ID} in {REPO}"
-  create_repo: "📔 Created new repository {REPO}"
-  fork_repo: "🔱 Forked {FORK} from {REPO}"
-  wiki_create: "📖 Created new wiki page {WIKI} in {REPO}"
-  added_member: "🤝 Became collaborator on {REPO}"
-  changes_approved: "👍 Approved {ID} in {REPO}"
-  changes_requested: "🔴 Requested changes in {ID} in {REPO}"
-  new_release: "✌️ Released {ID} in {REPO}"
-  new_star: "⭐ Starred {REPO}"
