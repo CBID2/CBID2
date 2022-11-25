@@ -43,19 +43,8 @@
 </picture>
  </div> 
  <br/>
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#5974](https://github.com/EddieHubCommunity/support/issues/5974) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#5974](https://github.com/EddieHubCommunity/support/issues/5974) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Opened issue [#9204](https://github.com/EbookFoundation/free-programming-books/issues/9204) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-4. 🗣 Commented on [#5974](https://github.com/EddieHubCommunity/support/issues/5974) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#101](https://github.com/jeffreycharters/station/issues/101) in [jeffreycharters/station](https://github.com/jeffreycharters/station)
 
 
----
 ## :fire: My Stats:
 
 <a href="https://github.com/CBID2/github-readme-stats"><img alt="Christine Belzie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CBID2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
