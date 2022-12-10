@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-[![Christine's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/CBID2/github-readme-activity-graph)
+[![Christine's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CBID2)](https://github.com/CBID2/github-readme-activity-graph)
 
 <br/>
 
