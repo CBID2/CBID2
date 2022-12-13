@@ -16,7 +16,7 @@
  
  ---
  ## 👩🏿 About Me:
- I'm an detailed oriented professional who is passionate about making engaging learning experiences accessible for all. I have decided to learn how to code to enhance my instructional design process. 
+ I'm a detailed oriented professional who is passionate about making engaging learning experiences accessible for all. I have decided to learn how to code to enhance my instructional design process. 
 - 🔭 I’m currently outlining a post for my post **[Chrissy Codes]**.
 - 🌱 I’m currently learning HTML and CSS. I plan on re-learning JavaScript once I get comfortable with CSS. 
 - 🔎 I'm looking to learning more about frontend development and how to apply coding in a Instructional Design context.
