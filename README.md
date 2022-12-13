@@ -16,8 +16,8 @@
  
  ---
  ## 👩🏿 About Me:
- I'm an instructional designer who is passionate about making engaging learning experiences accessible for all. I have decided to learn how to code to enhance my instructional design process. 
-- 🔭 I’m currently outlining a blog post to submit to **[Women Who Codes' Blog](https://www.womenwhocode.com/blog)**. 
+ I'm an detailed oriented professional who is passionate about making engaging learning experiences accessible for all. I have decided to learn how to code to enhance my instructional design process. 
+- 🔭 I’m currently outlining a post for my post **[Chrissy Codes]**.
 - 🌱 I’m currently learning HTML and CSS. I plan on re-learning JavaScript once I get comfortable with CSS. 
 - 🔎 I'm looking to learning more about frontend development and how to apply coding in a Instructional Design context.
 - 🤔 Things I need to look into...building a portfolio, learning other programming languages, and continue creating cool projects. 
