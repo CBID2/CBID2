@@ -16,7 +16,7 @@
  
  ---
  ## 👩🏿 About Me:
- I'm a detailed oriented professional who is passionate about making engaging learning experiences accessible for all. I have decided to learn how to code to enhance my instructional design process. 
+ I'm an instructional designer who is passionate about making engaging learning experiences accessible for all. I have decided to learn how to code to enhance my instructional content development process. 
 - 🔭 I’m currently working on **[SheCodes Plus workshop](https://www.shecodes.io/plus#curriculum)**.
 - 🌱 I’m currently learning HTML and CSS. I plan on re-learning JavaScript once I get comfortable with CSS. 
 - 🔎 I'm looking to learning more about frontend development and how to apply coding in a Instructional Design context.
