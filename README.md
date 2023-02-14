@@ -17,8 +17,8 @@
  ---
  ## 👩🏿 About Me:
  I'm an instructional designer who is passionate about making engaging learning experiences accessible for all. I have decided to learn how to code to enhance my instructional content development process. 
-- 🔭 I’m currently working on **[SheCodes Plus workshop](https://www.shecodes.io/plus#curriculum)**.
-- 🌱 I’m currently learning HTML and CSS. I plan on re-learning JavaScript once I get comfortable with CSS. 
+- 🔭 What I'm currently working on: a blog post about my final project from **[SheCodes Plus workshop](https://www.shecodes.io/plus#curriculum)**.
+- 🌱 I’m currently deeping 
 - 🔎 I'm looking to learning more about frontend development and how to apply coding in a Instructional Design context.
 - 🤔 Things I need to look into...building a portfolio, learning other programming languages, and continue creating cool projects. 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinebelzie)
