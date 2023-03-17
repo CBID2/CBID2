@@ -16,8 +16,8 @@
  
  ---
  ## 👩🏿 About Me:
- I'm an instructional designer who is passionate about making engaging learning experiences accessible for all. I have decided to learn how to code to enhance my instructional content development process. 
-- 🔭 What I'm currently working on: a blog post about my final project from **[SheCodes Plus workshop](https://www.shecodes.io/plus#curriculum)**.
+Hi, I'm Christine! 😊 When I'm not telling students to use the preposition "at" in the sentence, "Let's eat Grandma" 😉, I write about my coding journey and the awesomeness of open source contributions.
+- 🔭 What I'm currently working on: a blog post about one of my projects from **[FreeCodeCamp's recent version of their Responsive Web Design course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)**.
 - 🌱 What I'm currently doing: Deepening my knowledge of CSS and JavaScript
 - 🔎 What I want to learn more about: applying my coding knowledge to instructional design and contributing to open source projects
 - 🤔 Things I need to look into...building a portfolio, learning other programming languages, and continue creating cool projects. 
