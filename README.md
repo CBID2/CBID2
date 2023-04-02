@@ -17,7 +17,7 @@
  ---
  ## 👩🏿 About Me:
 Hi, I'm Christine! 😊 When I'm not telling students to use the preposition "at" in the sentence, "Let's eat Grandma" 😉, I write about my coding journey and the awesomeness of open source contributions.
-- 🔭 What I'm currently working on: My first blog post for **[FreeCodeCamp](https://www.freecodecamp.org/news)😄**!
+- 🔭 What I'm currently working on: My first blog post for **[FreeCodeCamp](https://www.freecodecamp.org/news)**! 🙂
 - 🌱 What I'm currently doing: Deepening my knowledge of CSS and JavaScript
 - 🔎 What I want to learn more about: applying my coding knowledge to instructional design and contributing to open source projects
 - 🤔 Things I need to look into...building a portfolio, learning other programming languages, and continue creating cool projects. 
