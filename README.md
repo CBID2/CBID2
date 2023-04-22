@@ -62,5 +62,6 @@ Hi, I'm Christine! 😊 When I'm not telling students to use the preposition "at
 ---
 
 ## :writing_hand: Latest Blog posts:
+<!-- BLOG-POST-LIST:START -->
 
-<p> Coming soon!😊</p>
+<!-- BLOG-POST-LIST:END -->
