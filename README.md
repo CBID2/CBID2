@@ -55,8 +55,7 @@ Hi, I'm Christine! 😊 When I'm not telling students to use the preposition "at
 <br/>
 <br/>
 
-[![Christine's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CBID2)](https://github.com/CBID2/github-readme-activity-graph)
-
+[![Christine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CBID2&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
 ---
