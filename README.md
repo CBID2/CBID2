@@ -62,9 +62,9 @@ Hi, I'm Christine! 😊 When I'm not telling students to use the preposition "at
 
 ## :writing_hand: Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [4 Tips to Transition from Contributorhood to Maintainership](https://chrissycodes.hashnode.dev/4-tips-to-transition-from-contributorhood-to-maintainership)
 - [5 Important Lessons I Learned From Creating An Online Community](https://chrissycodes.hashnode.dev/5-important-lessons-i-learned-from-creating-an-online-community)
 - [So Far, So Good – Reflections on my Tech Journey](https://chrissycodes.hashnode.dev/so-far-so-good-reflections-on-my-tech-journey)
 - [How to Create an AR Widget with No Code](https://chrissycodes.hashnode.dev/how-to-create-an-ar-widget-with-no-code)
 - [Save Your Head and Your Data: 3 Do&#39;s and Don&#39;ts for Backing Up Your Devices](https://chrissycodes.hashnode.dev/save-your-head-and-your-data-3-dos-and-donts-for-backing-up-your-devices)
-- [The Write Stuff: 3 Lessons I Learned from a Tech Writing Hackathon](https://chrissycodes.hashnode.dev/the-write-stuff-3-lessons-i-learned-from-a-tech-writing-hackathon)
 <!-- BLOG-POST-LIST:END -->
