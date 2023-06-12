@@ -10,10 +10,6 @@
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Christine!</h1>
  </div> 
  
- <div align="center"> 
- <img src="https://media.allauthor.com/images/quotes/gif/benjamin-franklin-quote-tell-me-and-i-forget-teach-me-and.gif" alt="Benjamin Franklin Quote: 'Tell me and I forget. Teach me and I remember. Involve me and I learn.' is typed on a white background" width="300" />
- </div>
- 
  ---
  ## 👩🏿 About Me:
 Hi, I'm Christine! 😊 When I'm not telling students to use the preposition "at" in the sentence, "Let's eat Grandma" 😉, I write about my coding journey and the awesomeness of open source contributions.
@@ -24,6 +20,18 @@ Hi, I'm Christine! 😊 When I'm not telling students to use the preposition "at
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinebelzie)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: Over the summer, I ate my first BLT sandwich! It was delicious! 😋
+
+---
+
+## :writing_hand: Latest Blog posts:
+<!-- BLOG-POST-LIST:START -->
+- [4 Tips to Transition from Contributorhood to Maintainership](https://chrissycodes.hashnode.dev/4-tips-to-transition-from-contributorhood-to-maintainership)
+- [5 Important Lessons I Learned From Creating An Online Community](https://chrissycodes.hashnode.dev/5-important-lessons-i-learned-from-creating-an-online-community)
+- [So Far, So Good – Reflections on my Tech Journey](https://chrissycodes.hashnode.dev/so-far-so-good-reflections-on-my-tech-journey)
+- [How to Create an AR Widget with No Code](https://chrissycodes.hashnode.dev/how-to-create-an-ar-widget-with-no-code)
+- [Save Your Head and Your Data: 3 Do&#39;s and Don&#39;ts for Backing Up Your Devices](https://chrissycodes.hashnode.dev/save-your-head-and-your-data-3-dos-and-donts-for-backing-up-your-devices)
+<!-- BLOG-POST-LIST:END -->
+
 
 ---
 
@@ -45,7 +53,7 @@ Hi, I'm Christine! 😊 When I'm not telling students to use the preposition "at
  </div> 
  <br/>
 
-
+--- 
 ## :fire: My Stats:
 <a href="https://github.com/CBID2/github-readme-stats"><img alt="Christine Belzie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBID2&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
@@ -60,11 +68,3 @@ Hi, I'm Christine! 😊 When I'm not telling students to use the preposition "at
 
 ---
 
-## :writing_hand: Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [4 Tips to Transition from Contributorhood to Maintainership](https://chrissycodes.hashnode.dev/4-tips-to-transition-from-contributorhood-to-maintainership)
-- [5 Important Lessons I Learned From Creating An Online Community](https://chrissycodes.hashnode.dev/5-important-lessons-i-learned-from-creating-an-online-community)
-- [So Far, So Good – Reflections on my Tech Journey](https://chrissycodes.hashnode.dev/so-far-so-good-reflections-on-my-tech-journey)
-- [How to Create an AR Widget with No Code](https://chrissycodes.hashnode.dev/how-to-create-an-ar-widget-with-no-code)
-- [Save Your Head and Your Data: 3 Do&#39;s and Don&#39;ts for Backing Up Your Devices](https://chrissycodes.hashnode.dev/save-your-head-and-your-data-3-dos-and-donts-for-backing-up-your-devices)
-<!-- BLOG-POST-LIST:END -->
