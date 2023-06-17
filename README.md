@@ -14,7 +14,7 @@
  ## 👩🏿 About Me:
 Hi, I'm Christine! 😊 When I'm not telling students to use the preposition "at" in the sentence, "Let's eat Grandma" 😉, I write about my coding journey and the awesomeness of open source contributions.
 - 🔭 What I'm currently working on: Some documentation for a few open source projects! 🙂
-- 🌱 What I'm currently doing: Deepening my knowledge of CSS and JavaScript
+- 🌱 What I'm currently doing: Learning more about Technical Writing 
 - 🔎 What I want to learn more about: applying my coding knowledge to instructional design and contributing to open source projects
 - 🤔 Things I need to look into...building a portfolio, learning other programming languages, and continue creating cool projects. 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinebelzie)
