@@ -12,11 +12,11 @@
  
  ---
  ## 👩🏿 About Me:
-Hi, I'm Christine! 😊 When I'm not telling students to use the preposition "at" in the sentence, "Let's eat Grandma" 😉, I write about my coding journey and the awesomeness of open source contributions.
-- 🔭 What I'm currently working on: Some documentation for a few open source projects! 🙂
-- 🌱 What I'm currently doing: Learning more about Technical Writing 
-- 🔎 What I want to learn more about: applying my coding knowledge to instructional design and contributing to open source projects
-- 🤔 Things I need to look into...building a portfolio, learning other programming languages, and continue creating cool projects. 
+Hi, I'm Christine! 😊 I'm a former tutor who's looking to leverage my knowledge in education in finding a tech writing and/or IT HelpDesk Role.
+- 🔭 What I'm currently working on: I'm participating in OpenSauced's 100 Days of Open Source challenge! Check out my [progress tracker](https://github.com/CBID2/100-Days-of-Open-Source) here! 🙂
+- 🌱 What I'm currently doing: Learning more about Technical Writing and Cybersecurity
+- 🔎 What I want to learn more about: Cybersecurity and how to use open source to gain practical experience in IT. 
+- 🤔 Things I need to look into... gaining certification for IT and experience. 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinebelzie)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: Over the summer, I ate my first BLT sandwich! It was delicious! 😋
