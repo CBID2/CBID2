@@ -25,11 +25,11 @@ Hi, I'm Christine! 😊 I'm a former tutor who's looking to leverage my knowledg
 
 ## :writing_hand: Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [5 Lessons I’ve Learned as A Project Administrator in GirlScript Summer of Code](https://chrissycodes.hashnode.dev/5-lessons-ive-learned-as-a-project-administrator-in-girlscript-summer-of-code)
 - [3 Easy Uncommon Accessibility Techniques You Need to Know For Coding](https://chrissycodes.hashnode.dev/3-easy-uncommon-accessibility-techniques-you-need-to-know-for-coding)
 - [4 Tips to Transition from Contributorhood to Maintainership](https://chrissycodes.hashnode.dev/4-tips-to-transition-from-contributorhood-to-maintainership)
 - [5 Important Lessons I Learned From Creating An Online Community](https://chrissycodes.hashnode.dev/5-important-lessons-i-learned-from-creating-an-online-community)
 - [So Far, So Good – Reflections on my Tech Journey](https://chrissycodes.hashnode.dev/so-far-so-good-reflections-on-my-tech-journey)
-- [How to Create an AR Widget with No Code](https://chrissycodes.hashnode.dev/how-to-create-an-ar-widget-with-no-code)
 <!-- BLOG-POST-LIST:END -->
 
 
