@@ -13,7 +13,7 @@
  ---
  ## 👩🏿 About Me:
 Hi, I'm Christine! 😊 I'm a former tutor who's looking to leverage my knowledge in education in finding a tech writing and/or IT HelpDesk Role.
-- 🔭 What I'm currently working on: I'm participating in OpenSauced's 100 Days of Open Source challenge! Check out my [progress tracker](https://github.com/CBID2/100-Days-of-Open-Source) here! 🙂
+- 🔭 What I'm currently working on: a rough draft for a potential Smashing Magazine article.
 - 🌱 What I'm currently doing: Learning more about Technical Writing and Cybersecurity
 - 🔎 What I want to learn more about: Cybersecurity and how to use open source to gain practical experience in IT. 
 - 🤔 Things I need to look into... gaining certification for IT and experience. 
