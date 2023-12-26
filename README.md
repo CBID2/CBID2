@@ -25,11 +25,11 @@ Hi, I'm Christine! 😊 I'm a former tutor who's looking to leverage my knowledg
 
 ## :writing_hand: Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [3 Important Lessons I Learned From My First Paid Tech Writing Gig](https://chrissycodes.hashnode.dev/3-important-lessons-i-learned-from-my-first-paid-tech-writing-gig)
 - [Novice To Expert: My freeCodeCamp Writing Journey](https://chrissycodes.hashnode.dev/novice-to-expert-my-freecodecamp-writing-journey)
 - [Taming My First Pull Request to  FreeCodeCamp](https://chrissycodes.hashnode.dev/taming-my-first-pull-request-to-freecodecamp)
 - [5 Lessons I’ve Learned as A Project Administrator in GirlScript Summer of Code](https://chrissycodes.hashnode.dev/5-lessons-ive-learned-as-a-project-administrator-in-girlscript-summer-of-code)
 - [3 Easy Uncommon Accessibility Techniques You Need to Know For Coding](https://chrissycodes.hashnode.dev/3-easy-uncommon-accessibility-techniques-you-need-to-know-for-coding)
-- [4 Tips to Transition from Contributorhood to Maintainership](https://chrissycodes.hashnode.dev/4-tips-to-transition-from-contributorhood-to-maintainership)
 <!-- BLOG-POST-LIST:END -->
 
 
