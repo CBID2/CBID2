@@ -12,10 +12,10 @@
  
  ---
  ## 👩🏿 About Me:
-Hi, I'm Christine! 😊 I'm a former tutor who's looking to leverage my knowledge in education in finding a tech writing and/or IT HelpDesk Role.
+Hi, I'm Christine! 😊 I'm a former tutor looking to leverage my knowledge in education to find a IT HelpDesk Role.
 - 🔭 What I'm currently working on: a rough draft for a potential Smashing Magazine article.
 - 🌱 What I'm currently doing: Learning more about Technical Writing and Cybersecurity
-- 🔎 What I want to learn more about: Cybersecurity and how to use open source to gain practical experience in IT. 
+- 🔎 What I want to learn more about: IT and how to use open source to gain practical experience in a helpdesk Role. 
 - 🤔 Things I need to look into... gaining certification for IT and experience. 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinebelzie)
 - 😄 Pronouns: she/her/hers
