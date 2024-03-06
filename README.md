@@ -24,7 +24,7 @@ Hi, I'm Christine! 😊 I'm a former tutor looking to leverage my knowledge in e
 ---
 
 ## :writing_hand: Latest Blog posts:
-## Hashnode
+
 <!-- BLOG-POST-LIST:START -->
 - [How To Create a Table of Contents to your Dev.to article](https://dev.to/cbid2/how-to-create-a-table-of-contents-to-your-devto-article-19p)
 - [Who Would You Have Lunch With: Womxn in Tech Edition](https://dev.to/cbid2/who-would-you-have-lunch-with-womxn-in-tech-edition-4jln)
@@ -33,11 +33,6 @@ Hi, I'm Christine! 😊 I'm a former tutor looking to leverage my knowledge in e
 - [🌟 #DEVImpact2023: A Year of Challenges, Triumphs, and The Future](https://dev.to/cbid2/devimpact2023-a-year-of-challenges-triumphs-and-the-future-4j1)
 <!-- BLOG-POST-LIST:END -->
 
-## Dev.to 
- <!-- DEVTO-BLOG-LIST:START -->
-
- <!-- DEVTO-BLOG-LIST:END-->
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
