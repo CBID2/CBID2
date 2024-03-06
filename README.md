@@ -24,6 +24,7 @@ Hi, I'm Christine! 😊 I'm a former tutor looking to leverage my knowledge in e
 ---
 
 ## :writing_hand: Latest Blog posts:
+## Hashnode
 <!-- BLOG-POST-LIST:START -->
 - [Accessible Colors: How I Brought Rainbows to Everyone](https://chrissycodes.hashnode.dev/accessible-colors-how-i-brought-rainbows-to-everyone)
 - [2023: A Year of Challenges, Triumphs, and The Future](https://chrissycodes.hashnode.dev/2023-a-year-of-challenges-triumphs-and-the-future)
@@ -32,7 +33,10 @@ Hi, I'm Christine! 😊 I'm a former tutor looking to leverage my knowledge in e
 - [Taming My First Pull Request to  FreeCodeCamp](https://chrissycodes.hashnode.dev/taming-my-first-pull-request-to-freecodecamp)
 <!-- BLOG-POST-LIST:END -->
 
+## Dev.to 
+ <!-- DEVTO-BLOG-LIST:START -->
 
+ <!-- DEVTO-BLOG-LIST:END-->
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
