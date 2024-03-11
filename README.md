@@ -17,7 +17,10 @@ Hi, I'm Christine! 😊 I'm a former tutor looking to leverage my knowledge in e
 - 🌱 What I'm currently doing: Learning more about Technical Writing and Computer Basics. 
 - 🔎 What I want to learn more about: IT and technical writing how to use open source to gain practical experience in a helpdesk Role. 
 - 🤔 Things I need to look into... gaining certification for IT and experience. 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinebelzie)  [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CodesChrissy)  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge)](https://christinebelzie.carrd.co/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinebelzie)
+  ![X(Twitter) Badge](https://img.shields.io/badge/X(Twitter)-blue%20?logo=X&link=https%3A%2F%2Ftwitter.com%2FCodesChrissy)
+  ![Portfolio Badge](https://img.shields.io/badge/Portfolio-red?logo=Globe&logoColor=white&link=https%3A%2F%2Fchristinebelzie.carrd.co%2F)
+
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: Over the summer, I ate my first BLT sandwich! It was delicious! 😋
 
