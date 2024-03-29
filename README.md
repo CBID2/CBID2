@@ -29,11 +29,11 @@ Hi, I'm Christine! 😊 I'm a former tutor looking to leverage my knowledge in e
 ## :writing_hand: Latest Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Biggest Lessons I Learned From Women In Tech](https://chrissycodes.hashnode.dev/3-biggest-lessons-i-learned-from-women-in-tech)
-- [Accessible Colors: How I Brought Rainbows to Everyone](https://chrissycodes.hashnode.dev/accessible-colors-how-i-brought-rainbows-to-everyone)
-- [2023: A Year of Challenges, Triumphs, and The Future](https://chrissycodes.hashnode.dev/2023-a-year-of-challenges-triumphs-and-the-future)
-- [3 Important Lessons I Learned From My First Paid Tech Writing Gig](https://chrissycodes.hashnode.dev/3-important-lessons-i-learned-from-my-first-paid-tech-writing-gig)
-- [Novice To Expert: My freeCodeCamp Writing Journey](https://chrissycodes.hashnode.dev/novice-to-expert-my-freecodecamp-writing-journey)
+- [Let&#39;s Go Camping!](https://dev.to/cbid2/lets-go-camping-4g02)
+- [How to add color to your Dev.to article’s code snippets](https://dev.to/cbid2/how-to-add-color-to-your-devto-articles-code-snippets-1hm4)
+- [How To Create a Table of Contents to your Dev.to article](https://dev.to/cbid2/how-to-create-a-table-of-contents-to-your-devto-article-19p)
+- [Who Would You Have Lunch With?: Womxn in Tech Edition](https://dev.to/cbid2/who-would-you-have-lunch-with-womxn-in-tech-edition-4jln)
+- [Accessible Colors: How I Brought Rainbows to Everyone](https://dev.to/cbid2/accessible-colors-how-i-brought-rainbows-to-everyone-mn7)
 <!-- BLOG-POST-LIST:END -->
 
 
