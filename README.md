@@ -29,11 +29,11 @@ Hi, I'm Christine! 😊 I'm a former tutor looking to leverage this and my open 
 ## :writing_hand: Latest Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pieces: Your Ultimate Coding AI Best Friend](https://chrissycodes.hashnode.dev/pieces-your-ultimate-coding-ai-best-friend)
-- [3 Biggest Lessons I Learned From Women In Tech](https://chrissycodes.hashnode.dev/3-biggest-lessons-i-learned-from-women-in-tech)
-- [Accessible Colors: How I Brought Rainbows to Everyone](https://chrissycodes.hashnode.dev/accessible-colors-how-i-brought-rainbows-to-everyone)
-- [2023: A Year of Challenges, Triumphs, and The Future](https://chrissycodes.hashnode.dev/2023-a-year-of-challenges-triumphs-and-the-future)
-- [3 Important Lessons I Learned From My First Paid Tech Writing Gig](https://chrissycodes.hashnode.dev/3-important-lessons-i-learned-from-my-first-paid-tech-writing-gig)
+- [Pieces: Your Ultimate Coding AI Best Friend](https://dev.to/cbid2/pieces-your-ultimate-coding-ai-best-friend-6me)
+- [Bytes: The Meal That Makes Your Computer Feast Like Crazy](https://dev.to/cbid2/bytes-the-meal-that-makes-your-computer-feast-like-crazy-5bgc)
+- [Two Flags, One Country, Same Message](https://dev.to/cbid2/two-flags-one-country-same-message-6d7)
+- [How To Create A Welcoming Space For New Open Source Contributors](https://dev.to/opensauced/how-to-create-a-welcoming-space-for-new-open-source-contributors-25fd)
+- [3 Biggest Lessons I Learned From Women In Tech](https://dev.to/cbid2/3-biggest-lessons-i-learned-from-women-in-tech-2nml)
 <!-- BLOG-POST-LIST:END -->
 
 
