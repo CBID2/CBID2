@@ -29,11 +29,11 @@ Hi, I'm Christine! 😊 I'm a former tutor looking to leverage this and my open 
 ## :writing_hand: Latest Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Custom Merchandise: 4 Ways to Elevate Your Brand Identity](https://chrissycodes.hashnode.dev/the-power-of-custom-merchandise-4-ways-to-elevate-your-brand-identity)
-- [Pieces: Your Ultimate Coding AI Best Friend](https://chrissycodes.hashnode.dev/pieces-your-ultimate-coding-ai-best-friend)
-- [3 Biggest Lessons I Learned From Women In Tech](https://chrissycodes.hashnode.dev/3-biggest-lessons-i-learned-from-women-in-tech)
-- [Accessible Colors: How I Brought Rainbows to Everyone](https://chrissycodes.hashnode.dev/accessible-colors-how-i-brought-rainbows-to-everyone)
-- [2023: A Year of Challenges, Triumphs, and The Future](https://chrissycodes.hashnode.dev/2023-a-year-of-challenges-triumphs-and-the-future)
+- [The Power of Custom Merchandise: 4 Ways to Elevate Your Brand Identity](https://dev.to/cbid2/the-power-of-custom-merchandise-4-ways-to-elevate-your-brand-identity-2dbo)
+- [Pieces: Your Ultimate Coding AI Best Friend](https://dev.to/cbid2/pieces-your-ultimate-coding-ai-best-friend-6me)
+- [Bytes: The Meal That Makes Your Computer Feast Like Crazy](https://dev.to/cbid2/bytes-the-meal-that-makes-your-computer-feast-like-crazy-5bgc)
+- [Two Flags, One Country, Same Message](https://dev.to/cbid2/two-flags-one-country-same-message-6d7)
+- [How To Create A Welcoming Space For New Open Source Contributors](https://dev.to/opensauced/how-to-create-a-welcoming-space-for-new-open-source-contributors-25fd)
 <!-- BLOG-POST-LIST:END -->
 
 
