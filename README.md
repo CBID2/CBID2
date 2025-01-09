@@ -57,10 +57,7 @@ Hi, I'm Christine! 😊 I'm a former tutor looking to leverage this and my open 
 --- 
 ## :fire: My Stats:
 <a href="https://github.com/CBID2/github-readme-stats"><img alt="Christine Belzie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBID2&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CBID2&theme=github-dark)](https://git.io/streak-stats)
   <br/>
-
 <br/>
 <br/>
 
