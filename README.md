@@ -13,8 +13,8 @@
  ---
  ##  About Me:
 Hi, I'm Christine! 😊 I'm a former tutor looking to leverage this and my open source experiences in a  Technical Writing Role.
-- What I'm currently doing: Learning more about Technical Writing and Computer Basics. 
--  What I want to learn more about: Technical writing how to use open source to gain practical experience in a helpdesk Role. 
+- What I'm currently doing: Looking for a paid remote IT apprenticeships. 
+-  What I want to learn more about: DITA. 
 -  Things I need to look into: programming languages that can benefit me as a technical writer. 
 -  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinebelzie)
   ![X(Twitter) Badge](https://img.shields.io/badge/X(Twitter)-blue%20?logo=X&link=https%3A%2F%2Ftwitter.com%2FCodesChrissy)
