@@ -14,7 +14,7 @@
  ##  About Me:
 Hi, I'm Christine! 😊 I'm a former tutor looking to leverage this and my open source experiences in a  Technical Writing Role.
 - What I'm currently doing: Looking for a paid remote IT apprenticeships. 
--  What I want to learn more about: DITA. 
+-  What I want to learn more about: [DITA](https://www.oxygenxml.com/dita/styleguide/Authoring_Concepts/c_Introduction_to_DITA.html)
 -  Things I need to look into: programming languages that can benefit me as a technical writer. 
 -  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinebelzie)
   ![X(Twitter) Badge](https://img.shields.io/badge/X(Twitter)-blue%20?logo=X&link=https%3A%2F%2Ftwitter.com%2FCodesChrissy)
