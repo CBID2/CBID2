@@ -28,11 +28,11 @@ Hi, I'm Christine! 😊 I'm a former tutor looking to leverage this and my open 
 ## :writing_hand: Latest Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Custom Merchandise: 4 Ways to Elevate Your Brand Identity](https://chrissycodes.hashnode.dev/the-power-of-custom-merchandise-4-ways-to-elevate-your-brand-identity)
-- [Pieces: Your Ultimate Coding AI Best Friend](https://chrissycodes.hashnode.dev/pieces-your-ultimate-coding-ai-best-friend)
-- [3 Biggest Lessons I Learned From Women In Tech](https://chrissycodes.hashnode.dev/3-biggest-lessons-i-learned-from-women-in-tech)
-- [Accessible Colors: How I Brought Rainbows to Everyone](https://chrissycodes.hashnode.dev/accessible-colors-how-i-brought-rainbows-to-everyone)
-- [2023: A Year of Challenges, Triumphs, and The Future](https://chrissycodes.hashnode.dev/2023-a-year-of-challenges-triumphs-and-the-future)
+- [If you need some inspiration for public speaking, check out this great article from Virtual Coffee](https://dev.to/cbid2/if-you-need-some-inspiration-for-public-speaking-check-out-this-great-article-from-virtual-coffee-2d4p)
+- [Lost at Sea: Navigating the Storms and Sanctuaries of My 2024 Journey](https://dev.to/cbid2/lost-at-sea-navigating-the-storms-and-sanctuaries-of-my-2024-journey-137j)
+- [The Power of Custom Merchandise: 4 Ways to Elevate Your Brand Identity](https://dev.to/cbid2/the-power-of-custom-merchandise-4-ways-to-elevate-your-brand-identity-2dbo)
+- [Pieces: Your Ultimate Coding AI Best Friend](https://dev.to/cbid2/pieces-your-ultimate-coding-ai-best-friend-6me)
+- [Bytes: The Meal That Makes Your Computer Feast Like Crazy](https://dev.to/cbid2/bytes-the-meal-that-makes-your-computer-feast-like-crazy-5bgc)
 <!-- BLOG-POST-LIST:END -->
 
 
