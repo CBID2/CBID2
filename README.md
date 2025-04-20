@@ -28,11 +28,11 @@ Hi, I'm Christine! 😊 I'm a former tutor looking to leverage this and my open 
 ## :writing_hand: Latest Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [The Birth of Shala: Creating an AI Mental Health Companion for Digital Wellness](https://dev.to/cbid2/the-birth-of-shala-creating-an-ai-mental-health-companion-for-digital-wellness-25n3)
 - [If you want to learn how to use accessibility tools in your developer workflow, check out my article on @keploy’s blog](https://dev.to/cbid2/if-you-want-to-learn-how-to-use-accessibility-tools-in-your-developer-workflow-check-out-my-3hfi)
 - [If you’ve been looking for an easier way to learn about meta descriptions &amp; how to write them, check out my latest article below ⬇️](https://dev.to/cbid2/if-youve-been-looking-for-an-easier-way-to-learn-about-meta-descriptions-how-to-write-them-4693)
 - [[Boost]](https://dev.to/cbid2/-160l)
 - [How to Write SEO Meta Descriptions Without Losing Your Sanity](https://dev.to/cbid2/how-to-write-seo-meta-descriptions-without-losing-your-sanity-437c)
-- [If you want to start using AI tools but don&#39;t know which one to pick, check out my review on Pieces. It might become your first AI best friend! 😊](https://dev.to/cbid2/if-you-want-to-start-using-ai-tools-but-dont-know-which-one-to-pick-check-out-my-review-on-olf)
 <!-- BLOG-POST-LIST:END -->
 
 
