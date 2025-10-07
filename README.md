@@ -28,11 +28,11 @@ Hi, I'm Christine! 😊 I'm a former tutor looking to leverage this and my open 
 ## :writing_hand: Latest Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Birth of Shala: Creating an AI Mental Health Companion for Digital Wellness](https://dev.to/cbid2/the-birth-of-shala-creating-an-ai-mental-health-companion-for-digital-wellness-25n3)
-- [If you want to learn how to use accessibility tools in your developer workflow, check out my article on @keploy’s blog](https://dev.to/cbid2/if-you-want-to-learn-how-to-use-accessibility-tools-in-your-developer-workflow-check-out-my-3hfi)
-- [If you’ve been looking for an easier way to learn about meta descriptions &amp; how to write them, check out my latest article below ⬇️](https://dev.to/cbid2/if-youve-been-looking-for-an-easier-way-to-learn-about-meta-descriptions-how-to-write-them-4693)
-- [[Boost]](https://dev.to/cbid2/-160l)
-- [How to Write SEO Meta Descriptions Without Losing Your Sanity](https://dev.to/cbid2/how-to-write-seo-meta-descriptions-without-losing-your-sanity-437c)
+- [The Power of Custom Merchandise: 4 Ways to Elevate Your Brand Identity](https://chrissycodes.hashnode.dev/the-power-of-custom-merchandise-4-ways-to-elevate-your-brand-identity)
+- [Pieces: Your Ultimate Coding AI Best Friend](https://chrissycodes.hashnode.dev/pieces-your-ultimate-coding-ai-best-friend)
+- [3 Biggest Lessons I Learned From Women In Tech](https://chrissycodes.hashnode.dev/3-biggest-lessons-i-learned-from-women-in-tech)
+- [Accessible Colors: How I Brought Rainbows to Everyone](https://chrissycodes.hashnode.dev/accessible-colors-how-i-brought-rainbows-to-everyone)
+- [2023: A Year of Challenges, Triumphs, and The Future](https://chrissycodes.hashnode.dev/2023-a-year-of-challenges-triumphs-and-the-future)
 <!-- BLOG-POST-LIST:END -->
 
 
